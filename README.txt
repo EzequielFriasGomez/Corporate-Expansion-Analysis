@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EzequielFriasGomez/Corporate-Expansion-Analysis/blob/main/Presentación_Expansión.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/EzequielFriasGomez/Corporate-Expansion-Analysis/main/Presentaci%C3%B3n_Expansi%C3%B3n.gif" width="800"/>
 </p>
 *Nota: El archivo `.pbix` original se encuentra adjunto en este repositorio para su exploración completa.*
 
