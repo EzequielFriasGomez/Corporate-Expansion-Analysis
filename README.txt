@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Presentación Expansión.gif" alt="Tablero Interactivo Power BI" width="800">
+  <img src=https://github.com/EzequielFriasGomez/Corporate-Expansion-Analysis/blob/e8f862cdede8b32e65a709ae71916c1e03ada7eb/Presentaci%C3%B3n%20Expansi%C3%B3n.gif alt="Tablero Interactivo Power BI" width="800">
 </p>
 
 *Nota: El archivo `.pbix` original se encuentra adjunto en este repositorio para su exploración completa.*
