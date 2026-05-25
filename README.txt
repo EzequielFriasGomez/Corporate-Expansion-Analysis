@@ -1,4 +1,4 @@
-![Alt text](https://github.com/EzequielFriasGomez/Corporate-Expansion-Analysis/blob/main/Presentación_Expansión.gif)
+<img src="https://github.com/EzequielFriasGomez/Corporate-Expansion-Analysis/blob/main/Presentación_Expansión.gif" alt="Alt text">
 *Nota: El archivo `.pbix` original se encuentra adjunto en este repositorio para su exploración completa.*
 
 # Corporate Profitability & Expansion Audit (US Market)
