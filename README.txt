@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Presentación Expansión.gif" alt="Tablero Interactivo Power BI" width="800">
+</p>
+
+*Nota: El archivo `.pbix` original se encuentra adjunto en este repositorio para su exploración completa.*
+
 # Corporate Profitability & Expansion Audit (US Market)
 
 **Project Overview** This repository details the data pipeline and commercial analysis for an expanding enterprise. Using a simulated dataset focused exclusively on the United States market, the primary goal was to audit the true financial health of the business. The analysis moves past gross sales volume to uncover net profitability margins and define a data-driven branch expansion strategy.
