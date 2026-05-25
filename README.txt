@@ -1,4 +1,6 @@
-<img src="https://github.com/EzequielFriasGomez/Corporate-Expansion-Analysis/blob/main/Presentación_Expansión.gif" alt="Alt text">
+<p align="center">
+  <img src="https://github.com/EzequielFriasGomez/Corporate-Expansion-Analysis/blob/main/Presentación_Expansión.gif" width="800"/>
+</p>
 *Nota: El archivo `.pbix` original se encuentra adjunto en este repositorio para su exploración completa.*
 
 # Corporate Profitability & Expansion Audit (US Market)
