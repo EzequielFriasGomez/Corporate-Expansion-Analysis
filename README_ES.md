@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EzequielFriasGomez/Corporate-Expansion-Analysis/main/Presentaci%C3%B3n_Expansi%C3%B3n.gif" width="800"/>
+</p>
+
 # Auditoría de Rentabilidad y Expansión Corporativa (Mercado EE.UU.)
 
 **Contexto del Proyecto** Este repositorio documenta el pipeline de datos y el análisis comercial de una empresa en fase de expansión. Utilizando un dataset simulado basado exclusivamente en el mercado de Estados Unidos, el objetivo fue auditar la salud financiera real del negocio, yendo más allá del volumen bruto de ventas para descubrir los márgenes netos de rentabilidad y definir la estrategia de apertura de nuevas sucursales.
